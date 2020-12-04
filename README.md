@@ -2,9 +2,9 @@
 
 I spaced out the source code, so it would be easy to read when the need arises to change something within the source code.
 
-I changed the header from a -div- to just just a header, by removing the -div-. 
+I changed the header from a -div- to just a header, by removing the -div-. 
 
-I also changed the first -div- underneath the -span- to just a -nav-. The -div- element was non-semantic, and when I changed it to the -nav- element, the images containing within this -nav- were grouped together properly.
+I also changed the first -div- underneath the -span- to just a -nav-. The -div- element was non-semantic, and when I changed it to the -nav- element, the code became more semantic. The images containing within this -nav- were grouped together properly.
 
 <img src="https://www.w3schools.com/html/img_sem_elements.gif" alt="different elements">
 
